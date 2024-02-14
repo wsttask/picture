@@ -2,6 +2,4 @@
 
 ### [图片仓库地址](https://wsttask.github.io/picture)
 
-
-
-![](./images/1.jpg)
+[asdf](https://wsttask.github.io/picture/1.jpg)
